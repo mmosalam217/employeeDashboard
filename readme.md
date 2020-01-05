@@ -1,4 +1,4 @@
-#Employye Dashboard
+# Employee Dashboard
 
 A simple server-side RESTfull API built to demonstrate the following skills:
 
