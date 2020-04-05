@@ -10,7 +10,7 @@ import com.resources.IOContainer.annotations.Injectable;
 public class ConnectionAdapter {
 	Connection conn = null;
 	final String USER = "root";
-    final String PASSWORD = "Natsu1piece";
+    final String PASSWORD = "1235";
 	final String DB_URL = "jdbc:mysql://localhost:3306/employeedb";
 	
 	public Connection initConnection() {
